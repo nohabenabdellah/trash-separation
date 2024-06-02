@@ -49,10 +49,11 @@ In this project, we have tried to classify garbage under the same categories as 
 ## Steps for using the Web Application
 - Cloning the Repository: 
 
-        git clone https://github.com/srijarkoroy/Garbage_Segregation.git
+        git clone https://github.com/nohabenabdellah/trash-separation.git
+  
 - Entering The directory: 
 
-        cd Garbage_Segregation
+        cd Deployment
         
 - Setting up the Python Environment with the dependencies:
 
